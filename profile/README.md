@@ -1,8 +1,8 @@
-# SmolWorks
+# SmolLabs
 
 Building a lightweight, local-first AI ecosystem.
 
-SmolWorks is an open-source organization focused on making small language models accessible, practical, and useful on everyday desktop hardware.
+SmolLabs is an open-source organization focused on making small language models accessible, practical, and useful on everyday desktop hardware.
 
 We build lightweight desktop applications, local inference tools, model integrations, and developer utilities that make running AI locally easier.
 
